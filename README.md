@@ -1,6 +1,7 @@
 # BigDataAnalysis-1
 
 Analyzing Video game sales Dataset analysis to mine meaningful insight.
+Tools used: Python, R, MySQL
 
 Goals:
 
