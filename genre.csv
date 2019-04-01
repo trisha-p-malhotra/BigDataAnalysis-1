@@ -1,0 +1,13 @@
+Genre,Genre_id
+Action,1
+Puzzle,2
+Shooter,3
+Simulation,4
+Role-Playing,5
+Racing,6
+Platform,7
+Sports,8
+Strategy,9
+Fighting,10
+Misc,11
+Adventure,12
